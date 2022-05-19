@@ -7,4 +7,4 @@ My name is Osiel Vivar and I am beginning my exploration of Git-Hub.
 I am a humble EE major on the road to glory. 
 
 Hubot claims that moon tacos are far superior to Earth tacos...
-CLEARLY Hubot has never been to Mexico. el oh el. 
+CLEARLY Hubot has never been to Mexico.
